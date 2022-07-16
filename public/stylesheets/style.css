@@ -1,0 +1,28 @@
+#selfvideobox{
+  float: right;
+  margin-right: 100px;
+}
+
+#selfvideo{
+  border: 4px solid black;
+  border-radius: 50%;
+}
+
+#othervideobox{
+float: left;
+margin-left: 100px;
+}
+
+#othervideo{
+  border: 4px solid black;
+  border-radius: 40px;
+}
+
+#caller{
+  height: 80px;
+  width: 100px;
+}
+
+#idtocall{
+ width: 300px; 
+}
